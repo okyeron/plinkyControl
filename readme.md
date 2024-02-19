@@ -3,6 +3,6 @@
 
 https://hexler.net/touchosc  
 
-Configure TouchOSC MIDI connections with `PlinkySynth MIDI`
+With Plinky plugged in via USB, configure TouchOSC MIDI connections to use `PlinkySynth MIDI`
 
 ![<# plinkcontrol #>](plinkcontrol.png "plinkcontrol")
